@@ -18,6 +18,12 @@ const App = () => {
         </strong>
       </p>
     </div>
+
+    // <div>
+    //   <header/>
+    //   <card/>
+    //   <footer/>
+    // </div>
   );
 };
 
