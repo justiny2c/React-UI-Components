@@ -1,0 +1,9 @@
+.wrapper {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.calc-content {
+    display: flex;
+    flex-flow: row nowrap;
+}
