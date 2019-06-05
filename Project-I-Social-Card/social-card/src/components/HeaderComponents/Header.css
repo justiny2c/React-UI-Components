@@ -1,1 +1,42 @@
 /* All styles for your header Components live here */
+h1 {
+    font-size: .9rem;
+    margin: 0;
+    padding: 2px;
+}
+
+p {
+    font-size: 0.8rem;
+    margin: 0;
+    padding: 2px;
+}
+
+.header-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+
+}
+.block2 {
+    display: flex;
+    flex-flow: column;
+    width: 320px;
+}
+.header-title {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding: 2px;
+}
+
+.header-title p {
+    /* padding: 0 5px; */
+    color: gray;
+}
+
+.header-content {
+    padding: 3px;
+}
+.header-image img{
+    height: 40px;
+}
